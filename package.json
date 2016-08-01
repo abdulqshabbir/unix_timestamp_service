@@ -1,0 +1,14 @@
+{
+  "name": "unix_timestamp",
+  "version": "1.0.0",
+  "description": "convert unix timestamp into natural time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
